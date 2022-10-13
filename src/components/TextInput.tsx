@@ -2,13 +2,12 @@ import React, { InputHTMLAttributes, ReactNode } from 'react'
 import { clsx } from "clsx";
 import { Slot } from '@radix-ui/react-slot';
 
-
 export interface TextInputRootProps {
   children: ReactNode;
 }
 function TextInputRoot({ children }: TextInputRootProps) {
   return (
-    <div className='flex items-center gap-3 py-4 px-3 rounded bg-gray-800   w-full  focus-within:ring-2 ring-red-500'>
+    <div className='flex items-center h-12 gap-3 py-4 px-3 rounded bg-gray-800   w-full  focus-within:ring-2 ring-red-500'>
       {children}
     </div>
   )
