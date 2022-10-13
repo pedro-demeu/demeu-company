@@ -19,7 +19,7 @@ jobs:
           node-version: 16
 
       - name: Intall Dependecies
-        run: npm ci
+        run: npm run ci
 
       - name: Build Storybook
         run: npm run build-storybook

@@ -9,7 +9,9 @@
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages",
+    "preci": "rm -rf node_modules",
+    "ci": "yarn install --frozen-lockfile"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.0",
