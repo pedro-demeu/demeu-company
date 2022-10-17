@@ -5,10 +5,10 @@
 This project simulates a Login system follow design system. It's use React and the latest technologies of the moment.
 
 ## :books: Functionalities
-[ ] - Make Login
-[ ] - Create an account
-[ ] - Recovery Account
-[ ] - List Username in Navbar
+[ ] - Make Login;
+[ ] - Create an account;
+[ ] - Recovery Account;
+[ ] - List Username in Navbar;
 
 ## :wrench: List of technologies used:
 * Radix UI;
@@ -40,11 +40,11 @@ yarn storybook
 ```
 
 ## :soon: Future features:
-[ ] - Create RegisterAccountPage
-[ ] - Create AccountRecoveryPage
-[ ] - Create CongratulationsPage
-[ ] - Implement i18n to translate site in Portugues, English, Spanish
-[ ] - API Integration
+[ ] - Create RegisterAccountPage;
+[ ] - Create AccountRecoveryPage;
+[ ] - Create CongratulationsPage;
+[ ] - Implement i18n to translate site in Portugues, English, Spanish;
+[ ] - API Integration;
 
 
 ## :handshake:
